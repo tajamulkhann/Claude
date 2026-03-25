@@ -82,8 +82,6 @@ An MCP server is a system that connects AI models to external tools, data, or ap
 - **Prompts:** Instructions or templates guiding the AI's behavior
 - **Resources:** Data or references the AI uses to complete tasks
 
-{% citation items=[{name:"Zapier: What is Claude Cowork?","uri":"https://zapier.com/blog/claude-cowork/"},{name:"Cloudflare: What is Model Context Protocol (MCP)?","uri":"https://www.cloudflare.com/learning/ai/what-is-model-context-protocol-mcp/"},{name:"Composio: How to effectively use prompts, resources, and tools in MCP","uri":"https://composio.dev/content/how-to-effectively-use-prompts-resources-and-tools-in-mcp"}] %}
-
 ## Claude Code Tips
 - [CS Dojo](https://github.com/tajamulkhann/claude-code-tips)
 
