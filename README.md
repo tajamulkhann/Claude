@@ -11,7 +11,7 @@
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Skills](#Skills)
-- [License](#license)
+- [Creating a Skill](#creating-a-skill)
 
 ## Introduction
 Claude is an advanced AI assistant developed by Anthropic. It supports various tasks such as conversation, coding, and collaboration, with a strong focus on safety and usefulness.
@@ -52,7 +52,7 @@ Claude’s skills are essentially sets of instructions or workflows that Claude 
 - Integrate with external tools (like Notion, Figma, Atlassian)
 - Support custom and community-made workflows for specialized needs
 
-### Creating a Skill
+## Creating a Skill
 - Use the Skill Creator tool from Anthropic’s Skills Repo, Skill Creator guides you step-by-step: first, describe what your skill should do, then specify inputs, outputs, and workflow
 - Create new skills by defining tasks and prompts
      - Example: alright lets create a skill together using your skill-creator skill. First ask me what skill should do 
