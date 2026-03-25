@@ -10,7 +10,7 @@
 - [Projects](#projects)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
+- [Skills](#Skills)
 - [License](#license)
 
 ## Introduction
@@ -43,7 +43,9 @@ Projects are persistent chat sessions with dedicated memory. Each project retain
 2. Follow the setup instructions
 3. Start using Claude for your tasks!
 
-## Contributing
+## Skills
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
+
+## Skills
 
 
