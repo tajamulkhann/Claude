@@ -13,6 +13,7 @@
 - [Skills](#Skills)
 - [Creating a Skill](#creating-a-skill)
 - [Skills Repos](#Skills-Repos)
+- [Claude Code](#Claude-Code)
 
 ## Introduction
 Claude is an advanced AI assistant developed by Anthropic. It supports various tasks such as conversation, coding, and collaboration, with a strong focus on safety and usefulness.
@@ -64,5 +65,8 @@ Claude’s skills are essentially sets of instructions or workflows that Claude 
 - [Anthropic Skills](https://github.com/anthropics/skills)
 - [Awesome Claude Skills](https://github.com/tajamulkhann/awesome-claude-skills)
 - [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills)
+
+## Claude Code
+
 
 
