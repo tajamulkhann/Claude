@@ -4,43 +4,37 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Models](#models)
-- [Levels of Interaction](#levels-of-interaction)
-- [Prompting Techniques](#prompting-techniques)
-- [Projects](#projects)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Skills](#Skills)
-- [Creating a Skill](#creating-a-skill)
-- [Skills Repos](#Skills-Repos)
+- [Skills](#skills)
 - [Claude Code](#Claude-Code)
+- [Claude Cowork](#Claude-Cowork)
+- [Claude Tips](#Claude-Tips)
 
 ## Introduction
 Claude is an advanced AI assistant developed by Anthropic. It supports various tasks such as conversation, coding, and collaboration, with a strong focus on safety and usefulness.
 
-## Models
+### Models
 - **Opus**: Most capable, handles complex reasoning
 - **Sonnet**: Balanced for speed and intelligence
 - **Haiku**: Fastest, ideal for lightweight tasks
 
-## Levels of Interaction
+### Levels of Interaction
 - **Chat**: For general conversation and brainstorming
 - **Code**: For programming help, code generation, and debugging
 - **Cowork**: For collaborative project management and workflows
 
-## Prompting Techniques
+### Prompting Techniques
 - **RTF (Role, Task, Format)**: Define assistant's role, the task, and the desired output format
 - **CTF (Context, Task, Format)**: Provide context, specify the task, and outline the format needed
 
-## Projects
+### Projects
 Projects are persistent chat sessions with dedicated memory. Each project retains its own context and history, making it easy to manage ongoing work.
 
-## Features
+### Features
 - Document upload and analysis
 - Code assistance and debugging
 - Project-based memory for focused collaboration
 
-## Getting Started
+### Getting Started
 1. Clone the repository
 2. Follow the setup instructions
 3. Start using Claude for your tasks!
@@ -54,14 +48,14 @@ Claude’s skills are essentially sets of instructions or workflows that Claude 
 - Integrate with external tools (like Notion, Figma, Atlassian)
 - Support custom and community-made workflows for specialized needs
 
-## Creating a Skill
+### Creating a Skill
 - Use the Skill Creator tool from Anthropic’s Skills Repo, Skill Creator guides you step-by-step: first, describe what your skill should do, then specify inputs, outputs, and workflow
 - Create new skills by defining tasks and prompts
      - Example: alright lets create a skill together using your skill-creator skill. First ask me what skill should do 
 - Customize skills for coding, automation, document handling, integrations, and more
      -  Example: I want to create a skill for generating YouTube metadata (title, description, tags) from the script of my YouTube video.
 
-## Skills Repos
+### Skills Repos
 - [Anthropic Skills](https://github.com/anthropics/skills)
 - [Awesome Claude Skills](https://github.com/tajamulkhann/awesome-claude-skills)
 - [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills)
@@ -76,5 +70,23 @@ Some key points about Claude code:
 - Claude supports collaborative coding by allowing multiple users to interact with and modify code artifacts
 
 This makes Claude a versatile tool for developers, data scientists, and anyone working with code, enabling rapid prototyping, learning, and code review in a conversational setting.
+
+## Claude Cowork
+Claude Cowork is an AI assistant in the Claude desktop app that can autonomously work with files and apps on your computer to automate multi-step tasks, acting like a digital coworker.
+
+### MCP Server
+An MCP server is a system that connects AI models to external tools, data, or apps, allowing them to interact and perform tasks securely through a standard protocol.
+
+### MCPS: Tools, Prompts, and Resources
+- **Tools:** Actions or functions the AI can perform (e.g., search, code, generate charts)
+- **Prompts:** Instructions or templates guiding the AI's behavior
+- **Resources:** Data or references the AI uses to complete tasks
+
+{% citation items=[{name:"Zapier: What is Claude Cowork?","uri":"https://zapier.com/blog/claude-cowork/"},{name:"Cloudflare: What is Model Context Protocol (MCP)?","uri":"https://www.cloudflare.com/learning/ai/what-is-model-context-protocol-mcp/"},{name:"Composio: How to effectively use prompts, resources, and tools in MCP","uri":"https://composio.dev/content/how-to-effectively-use-prompts-resources-and-tools-in-mcp"}] %}
+
+## Claude Code Tips
+- [CS Dojo](https://github.com/tajamulkhann/claude-code-tips)
+
+
 
 
