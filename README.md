@@ -57,5 +57,6 @@ Claude’s skills are essentially sets of instructions or workflows that Claude 
 - Create new skills by defining tasks and prompts
      - Example: alright lets create a skill together using your skill-creator skill. First ask me what skill should do 
 - Customize skills for coding, automation, document handling, integrations, and more
+     -  Example: I want to create a skill for generating YouTube metadata (title, description, tags) from the script of my YouTube video.
 
 
