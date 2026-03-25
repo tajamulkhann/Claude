@@ -44,8 +44,18 @@ Projects are persistent chat sessions with dedicated memory. Each project retain
 3. Start using Claude for your tasks!
 
 ## Skills
-Contributions are welcome! Please open an issue or submit a pull request for any improvements.
+Claude’s skills are essentially sets of instructions or workflows that Claude loads dynamically to handle specialized tasks.
+- Write, review, and debug code
+- Create and edit documents (Word, Excel, PowerPoint, PDFs)
+- Automate workflows and business tasks
+- Generate designs and diagrams
+- Integrate with external tools (like Notion, Figma, Atlassian)
+- Support custom and community-made workflows for specialized needs
 
-## Skills
+### Creating a Skill
+- Use the Skill Creator tool from Anthropic’s Skills Repo, Skill Creator guides you step-by-step: first, describe what your skill should do, then specify inputs, outputs, and workflow
+- Create new skills by defining tasks and prompts
+     - Example: alright lets create a skill together using your skill-creator skill. First ask me what skill should do 
+- Customize skills for coding, automation, document handling, integrations, and more
 
 
