@@ -3,13 +3,13 @@
 <img width="1280" height="737" alt="Claude UI Screenshot" src="https://github.com/user-attachments/assets/c9b2f328-eefa-4731-b1a4-ae22f521ac91" />
 
 ## Table of Contents
-- [Introduction](##introduction)
+- [Introduction](#introduction)
 - [Models](#models)
 - [Levels of Interaction](#levels-of-interaction)
 - [Prompting Techniques](#prompting-techniques)
 - [Projects](#projects)
 - [Features](#features)
-- [Getting Started](##getting-started)
+- [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
 
