@@ -49,8 +49,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 Specify your license here (e.g., MIT, Apache 2.0, etc.)
 
----
-
-Feel free to adjust sections or add more details based on your project’s requirements!
-
-{% citation items=[{name:"Anthropic Claude Documentation",uri:"https://docs.anthropic.com/claude"}] %}
