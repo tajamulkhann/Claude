@@ -58,5 +58,13 @@ Claude’s skills are essentially sets of instructions or workflows that Claude 
      - Example: alright lets create a skill together using your skill-creator skill. First ask me what skill should do 
 - Customize skills for coding, automation, document handling, integrations, and more
      -  Example: I want to create a skill for generating YouTube metadata (title, description, tags) from the script of my YouTube video.
+ 
+## Skills Library
+Certainly! Here’s your Skills Library section in proper markdown format:
+
+## Skills Library
+- [Anthropic Skills](https://github.com/anthropics/skills)
+- [Awesome Claude Skills](https://github.com/tajamulkhann/awesome-claude-skills)
+- [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills)
 
 
